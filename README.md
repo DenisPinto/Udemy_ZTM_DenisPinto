@@ -34,6 +34,7 @@ Content21
 ```python
 # operator precedence
 print((20 - 3) + 2 ** 2)
+
 # ( )
 # **
 # * /
