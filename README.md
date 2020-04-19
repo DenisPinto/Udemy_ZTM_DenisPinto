@@ -85,3 +85,27 @@ weather = "It's \"king of\" sunny"
 print(weather)
 # return : It's "king of" sunny
 ```
+Content31
+--------
+**Regarding formatted String**
+
+```python
+# formatted string example_01
+name = 'Jonnhy'
+age = 45
+print( "Hi " +name+ "! You have " + str(age) + " years old.")
+'''
+return
+Hi Jonnhy ! You have 45 years old
+'''
+# formatted string example_02 add "f" begin the sentence
+name = 'Jonnhy'
+age = 45
+
+print(f'Hi {name}. You are {age} years old')
+'''
+return
+Hi Jonnhy. You are 45 years old
+'''
+
+```
