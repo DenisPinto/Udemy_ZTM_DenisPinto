@@ -68,10 +68,12 @@ Content30
 # example_01 without "\"
 weather = 'It's king of sunny'
 print(weather)
-# ERROR bellow
-# weather = 'It's king of sunny'
-#                  ^
-# SyntaxError: invalid syntax
+"""
+ERROR bellow
+weather = 'It's king of sunny'
+                  ^
+SyntaxError: invalid syntax
+"""
 
 # example_02  adding "\"
 weather = 'It\'s king of sunny'
