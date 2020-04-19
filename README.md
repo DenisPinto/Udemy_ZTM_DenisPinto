@@ -5,7 +5,7 @@ Contents
 --------
 **Exercise:** **[`Exercise22`](#exercise22)__,__[`None`](#none)__,__**
 
-**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__**
+**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__**
 
 Exercise22
 --------
@@ -59,4 +59,22 @@ some_value *= 3
 print(some_value)
 # return 15
 
+```
+Content30
+--------
+**Regarding scape sentence**
+
+```python
+# example_01 without "\"
+weather = 'It's king of sunny'
+print(weather)
+# ERROR bellow
+# weather = 'It's king of sunny'
+#                  ^
+# SyntaxError: invalid syntax
+
+# example_02  adding "\"
+weather = 'It\'s king of sunny'
+print(weather)
+#return It's king of sunny
 ```
