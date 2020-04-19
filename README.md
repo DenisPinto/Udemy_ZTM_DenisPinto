@@ -77,4 +77,9 @@ print(weather)
 weather = 'It\'s king of sunny'
 print(weather)
 #return It's king of sunny
+
+# example_03
+weather = "It's \"king of\" sunny"
+print(weather)
+# return : It's "king of" sunny
 ```
