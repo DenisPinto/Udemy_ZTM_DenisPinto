@@ -5,7 +5,7 @@ Contents
 --------
 **Exercise:** **[`Exercise22`](#exercise22)__,__[`None`](#none)__,__**
 
-**Annotation:** **[`Content21`](#content21)__,__**
+**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__**
 
 Exercise22
 --------
@@ -39,4 +39,13 @@ print((20 - 3) + 2 ** 2)
 # **
 # * /
 # + -
+```
+
+Content26
+--------
+**Some representation with arguments**
+
+```python
+# argumented assignment operator
+
 ```
