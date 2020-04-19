@@ -78,7 +78,7 @@ weather = 'It\'s king of sunny'
 print(weather)
 #return It's king of sunny
 
-# example_03
+# example_03 put word between "" in middle of the sentence
 weather = "It's \"king of\" sunny"
 print(weather)
 # return : It's "king of" sunny
