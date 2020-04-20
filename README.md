@@ -174,3 +174,11 @@ selfish = 'example'
 print(selfish[::1])
 # return : example
 ```
+```python
+selfish = 'example'
+          #0123456
+
+# [start:stop:stepover]
+print(selfish[::-1])
+# return : elpmaxe
+```
