@@ -5,7 +5,7 @@ Contents
 --------
 **Exercise:** **[`Exercise22`](#exercise22)__,__[`None`](#none)__,__**
 
-**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__**
+**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__[`Content32`](#content32)__,__**
 
 Exercise22
 --------
@@ -121,5 +121,39 @@ print('Hi {}. You are {} years old'.format('Johnny','40'))
 '''
 return
 Hi Johnny. You are 40 years old.
+'''
+```
+Content32
+--------
+**Ummutability, String reverse**
+
+```python
+selfish = 'example'
+          #0123456
+
+'''
+Para sequencia direita para esquerda
+[0] -> e
+[1] -> x
+[2] -> a
+[3] -> m
+[4] -> p
+[5] -> l
+[6] -> e
+
+Para sequencia esquerda para direita (reverso)[-1]
+selfish = example
+          7654321      
+[1] -> e
+[2] -> l
+[3] -> p
+
+Para sequencia esquerda para direita (reverso) [-2]
+selfish = example
+          7654321      
+[2] -> l
+[3] -> p
+[4] -> m
+
 '''
 ```
