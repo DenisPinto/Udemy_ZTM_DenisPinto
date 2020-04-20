@@ -112,3 +112,14 @@ return
 Hi Jonnhy. You are 45 years old
 '''
 ```
+```python
+# format string example_03 add "format"
+name = 'Johnny'
+age = 40
+
+print('Hi {}. You are {} years old'.format('Johnny','40'))
+'''
+return
+Hi Johnny. You are 40 years old.
+'''
+```
