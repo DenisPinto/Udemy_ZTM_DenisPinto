@@ -52,13 +52,13 @@ some_value = 5
 some_value = some_value * 2
 print(some_value)
 # retun 10
-
+```
+```python
 # example_02
 some_value = 5
 some_value *= 3
 print(some_value)
 # return 15
-
 ```
 Content30
 --------
@@ -74,12 +74,14 @@ weather = 'It's king of sunny'
                   ^
 SyntaxError: invalid syntax
 """
-
+```
+```python
 # example_02  adding "\"
 weather = 'It\'s king of sunny'
 print(weather)
 #return It's king of sunny
-
+```
+```python
 # example_03 put word between "" in middle of the sentence
 weather = "It's \"king of\" sunny"
 print(weather)
