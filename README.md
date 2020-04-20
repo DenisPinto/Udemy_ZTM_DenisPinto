@@ -182,3 +182,28 @@ selfish = 'example'
 print(selfish[::-1])
 # return : elpmaxe
 ```
+```python
+selfish = 'example'
+          #0123456
+
+# [start:stop:stepover]
+print(selfish[::-1])
+print(selfish[::-2])
+print(selfish[::-3])
+print(selfish[::-4])
+print(selfish[::1])
+print(selfish[::2])
+print(selfish[::3])
+print(selfish[::4])
+
+'''
+print(selfish[::-1]) ->  elpmaxe
+print(selfish[::-2]) -> epae
+print(selfish[::-3]) -> eme
+print(selfish[::-4]) -> ea
+print(selfish[::1]) -> example
+print(selfish[::2]) -> eape
+print(selfish[::3]) -> eme
+print(selfish[::4]) -> ep
+'''
+```
