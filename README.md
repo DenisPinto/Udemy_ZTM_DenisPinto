@@ -157,3 +157,13 @@ selfish = example
 
 '''
 ```
+```python
+
+selfish = 'example'
+          #0123456
+
+# [start:stop:stepover]
+print(selfish[:5])
+# return : examp
+```
+
