@@ -166,4 +166,11 @@ selfish = 'example'
 print(selfish[:5])
 # return : examp
 ```
+```Pyhton
+selfish = 'example'
+          #0123456
 
+# [start:stop:stepover]
+print(selfish[::1])
+# return : example
+```
