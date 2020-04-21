@@ -5,7 +5,7 @@ Contents
 --------
 **Exercise:** **[`Exercise22`](#exercise22)__,__[`None`](#none)__,__**
 
-**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__[`Content32`](#content32)__,__**
+**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__[`Content32`](#content32)__,__[`Content34`](#content34)__,__**
 
 Exercise22
 --------
@@ -205,5 +205,18 @@ print(selfish[::1]) -> example
 print(selfish[::2]) -> eape
 print(selfish[::3]) -> eme
 print(selfish[::4]) -> ep
+'''
+```
+Content34
+--------
+**Construction function, lenght of string**
+
+```python
+# constrution functions
+print(len('amazing'))
+#          1234567
+'''
+Note that lengt of string start with number "1"
+return : 7
 '''
 ```
