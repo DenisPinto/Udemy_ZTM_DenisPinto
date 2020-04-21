@@ -5,7 +5,7 @@ Contents
 --------
 **Exercise:** **[`Exercise22`](#exercise22)__,__[`None`](#none)__,__**
 
-**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__[`Content32`](#content32)__,__[`Content34`](#content34)__,__[`Content35`](#content35)__,__**
+**Annotation:** **[`Content21`](#content21)__,__[`Content26`](#content26)__,__[`Content30`](#content30)__,__[`Content31`](#content31)__,__[`Content32`](#content32)__,__[`Content34`](#content34)__,__[`Content35`](#content35)__,__[`Gui`](#gui)__,__**
 
 Exercise22
 --------
@@ -237,5 +237,14 @@ return
 print(bool(1)) -> True
 print(bool(0)) -> False
 
+'''
+```
+Gui
+--------
+**Falando um pouco sobre Gui**
+
+```python
+'''
+Este Comentario serve para falar do Gui que é muito didao
 '''
 ```
