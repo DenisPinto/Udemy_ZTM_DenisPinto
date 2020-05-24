@@ -255,4 +255,22 @@ You age is : 43
 '''
 '''
 ```
+Content40
+--------
+**List Slincing**
 
+```python
+# list slicing
+amazon_cart = ['notebooks','sunglasse','toys','grapes']
+amazon_cart[0] = 'laptop'
+new_cart = amazon_cart [:]
+new_cart[0] = 'gum'
+print(new_cart)
+print(amazon_cart)
+'''
+return
+['gum', 'sunglasse', 'toys', 'grapes']
+['laptop', 'sunglasse', 'toys', 'grapes']
+'''
+'''
+```
