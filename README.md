@@ -274,5 +274,4 @@ return
 
 # This is idea of copying vc modifying
 '''
-'''
 ```
