@@ -271,6 +271,8 @@ print(amazon_cart)
 return
 ['gum', 'sunglasse', 'toys', 'grapes']
 ['laptop', 'sunglasse', 'toys', 'grapes']
+
+# This is idea of copying vc modifying
 '''
 '''
 ```
